@@ -16,9 +16,9 @@ For this project the following tools and libraries were used:
  - Anaconda 3 
  
  # Data 
- The data for this project can be found (https://user-images.githubusercontent.com/110916924/183750413-e01c26b0-dd3e-4c95-8bb1-50e1ac764c94.png).
+ The data for this project can be found (https://www.instacart.com/datasets/grocery-shopping-2017)
  
- The data dictionary can be found [here] (https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b).
+ The data dictionary can be found (https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
  
  
  
